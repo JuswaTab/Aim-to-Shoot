@@ -1,4 +1,4 @@
-# Aim-to-Shoot
+# Aim-Shooter
 # Leader
 Joshua Baguio
 # Members
